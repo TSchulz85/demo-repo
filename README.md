@@ -6,3 +6,7 @@ some description
 
 watch tutorial.
 
+
+### local dev
+
+1. open index
